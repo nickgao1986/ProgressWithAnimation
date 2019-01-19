@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="pregnancy_color_181818">#181818</color>
+    <color name="pregnancy_color_888888">#888888</color>
+    <color name="pregnancy_color_49c9c9">#49c9c9</color>
+    <color name="pregnancy_color_f5f5f5">#f5f5f5</color>
+    <color name="line_message">#FFBBBBBB</color>
+    <color name="pregnancy_color_ececec">#ececec</color>
+
+</resources>

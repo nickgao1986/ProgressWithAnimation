@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <declare-styleable name="SportStepCountView">
+        <attr name="mpc_percent" format="float" />
+        <attr name="mpc_stroke_width" format="dimension" />
+        <attr name="mpc_start_color" format="color" />
+        <attr name="mpc_end_color" format="color" />
+        <!-- 背景环的颜色 -->
+        <attr name="mpc_default_color" format="color" />
+    </declare-styleable>
+</resources>

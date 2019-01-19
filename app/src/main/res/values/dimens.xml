@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bb_line">1px</dimen>
+    <dimen name="bb_line_bold">6dp</dimen>
+    <dimen name="bb_corner_radius">6dp</dimen>
+
+    <dimen name="home_grid_space">12dp</dimen>
+    <dimen name="divider_height_8">8dp</dimen>
+    <dimen name="divider_height_group">6dp</dimen>
+
+
+    <!-- 计步器 -->
+    <dimen name="circle_foot_step_title_size">15sp</dimen>
+    <dimen name="circle_foot_step_size">30dp</dimen>
+    <dimen name="day_of_week_control_text_size">15sp</dimen>
+    <dimen name="day_of_work_control_margin_left_right">16.5dp</dimen>
+    <dimen name="day_of_work_control_size">37dp</dimen>
+    <dimen name="current_day_radius">13dp</dimen>
+    <dimen name="distance_and_calorie_layout_margintop">32dp</dimen>
+    <dimen name="pedometer_calorie_distance_margin_left_right">85dp</dimen>
+
+    <dimen name="pedometer_info_margin_top">20dp</dimen>
+    <dimen name="pedometer_info_margin_bottom">30dp</dimen>
+
+    <!-- 个人中心会员卡layout相关 -->
+    <dimen name="membership_unfolded_layout_height">131dp</dimen>
+    <dimen name="membership_folded_layout_height">67dp</dimen>
+    <dimen name="membership_folded_center_text_margin_top">6dp</dimen>
+    <dimen name="membership_unfolded_center_text_margin_top">50dp</dimen>
+
+    <dimen name="shopper_keeper_entrance_width">62dp</dimen>
+    <dimen name="shopper_keeper_entrance_height">17dp</dimen>
+    <dimen name="bb_feed_stat_date_bg_size">30dp</dimen>
+
+</resources>

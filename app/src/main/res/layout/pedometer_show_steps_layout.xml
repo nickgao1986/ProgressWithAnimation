@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="231dp"
+    android:layout_marginTop="20dp">
+
+
+    <nickgao.com.viewpagerswitchexample.view.SportStepCountView
+        android:id="@+id/circleProgress"
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/checkHistoryStepCount"
+        android:layout_marginTop="165dp"
+        android:layout_width="76dp"
+        android:layout_height="26dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/pregnancy_color_888888"
+        android:textSize="14sp"
+        android:text="查看历史"
+        android:background="@drawable/check_step_history_rectangle"
+        />
+
+
+    <Button
+        android:id="@+id/backToToday"
+        android:layout_width="71dp"
+        android:layout_height="26dp"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/pedometer_back_to_today_background"
+        android:text="回到今天"
+        android:textColor="@color/pregnancy_color_888888"
+        android:visibility="gone" />
+
+
+
+</RelativeLayout>
