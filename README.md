@@ -2,5 +2,5 @@
 
 
 ###### 运行效果图：
-![enter image description here](https://github.com/nickgao1986/ViewPaperSwitch/blob/master/22.gif)
+![enter image description here](https://github.com/nickgao1986/ProgressWithAnimation/blob/master/11.gif)
 
